@@ -1,0 +1,7 @@
+site_name: Blog do Josalab
+site_url: https://josalab.github.io/blog/
+
+repo_url: https://github.com/josalab/blog/
+
+theme:
+  name: material
